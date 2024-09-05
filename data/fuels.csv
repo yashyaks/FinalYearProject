@@ -1,4 +1,4 @@
-fuel,year,emissions (CO2/unit_fuel),Cost ($/unit_fuel),cost Uncertainty (±%)
+Fuel,year,emissions (CO2/unit_fuel),Cost ($/unit_fuel),cost Uncertainty (±%)
 B20,2023,3.04858,1.220845,0
 B20,2024,3.04858,1.246802,2
 B20,2025,3.04858,1.27331,4
